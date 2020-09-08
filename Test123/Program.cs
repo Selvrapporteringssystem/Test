@@ -11,7 +11,7 @@ namespace Test123
         
         static void Main(string[] args)
         {
-            Console.WriteLine("Hej. Virker du?");
+            //Hej. Virker du?
         }
     }
 }
