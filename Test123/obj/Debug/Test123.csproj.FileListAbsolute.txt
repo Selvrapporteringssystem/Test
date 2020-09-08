@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\Praktik\Selvrapporteringsprojekt\Test123\bin\Debug\Test123.exe.config
+\\Mac\Home\Desktop\Praktik\Selvrapporteringsprojekt\Test123\bin\Debug\Test123.exe
+\\Mac\Home\Desktop\Praktik\Selvrapporteringsprojekt\Test123\bin\Debug\Test123.pdb
+\\Mac\Home\Desktop\Praktik\Selvrapporteringsprojekt\Test123\obj\Debug\Test123.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Praktik\Selvrapporteringsprojekt\Test123\obj\Debug\Test123.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Praktik\Selvrapporteringsprojekt\Test123\obj\Debug\Test123.exe
+\\Mac\Home\Desktop\Praktik\Selvrapporteringsprojekt\Test123\obj\Debug\Test123.pdb
